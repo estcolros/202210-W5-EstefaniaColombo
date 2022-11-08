@@ -10,7 +10,7 @@ Create a module with functions that replicate, without using any of the existing
 
 ![js-veggiesMethods](./assets/veggiesMethods.png)
 
-##### Project conditions
+#### Project conditions
 
 -   Test ALL methods.
 -   Use Github Actions Audit in the Github flow.
